@@ -1,29 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700');
+
+body {
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+
 .mynavbar {
   font-size: 18px;
   overflow: hidden;
   background-color: white;
   padding: 20px 10px;
-  font-family: 'Montserrat', sans-serif;
   font-weight: 500;
-  margin-right: 60px;
 }
 
-.mytogglericon{
-  border-color: red !important;
+
+/* header content */
+.content-container {
+margin-top: 100px;
+
+}
+.content-item {
+  padding-right: 20px;
 }
 
 .MainTitle {
-  margin-top: 170px;
   font-size: 35px;
-  margin-left: 100px;
-  font-family: 'Montserrat', sans-serif;
   font-weight: 600;
 }
+
 
 .text-muted {
   font-size: 23px;
   margin-left: 5px;
-  font-family: 'Montserrat', sans-serif;
   font-weight: 400;
   white-space: nowrap;
 }
@@ -36,7 +45,17 @@
   margin-top: 30px;
 }
 
-.about{
-  padding-top: 30px;
-  font-family: 'Montserrat',
+#about{
+margin: 80px 0 ;
+
+}
+
+.avatar {
+  border-radius: 50%;
+  width: 150px;
+}
+
+.footer-content {
+  /* background-color: black; */
+  height: 100px
 }
