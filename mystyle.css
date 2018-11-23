@@ -1,0 +1,42 @@
+.mynavbar {
+  font-size: 18px;
+  overflow: hidden;
+  background-color: white;
+  padding: 20px 10px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  margin-right: 60px;
+}
+
+.mytogglericon{
+  border-color: red !important;
+}
+
+.MainTitle {
+  margin-top: 170px;
+  font-size: 35px;
+  margin-left: 100px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+}
+
+.text-muted {
+  font-size: 23px;
+  margin-left: 5px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  white-space: nowrap;
+}
+
+.myimagecontainer {
+  padding-top: 30px;
+}
+
+.mycontainer {
+  margin-top: 30px;
+}
+
+.about{
+  padding-top: 30px;
+  font-family: 'Montserrat',
+}
